@@ -1,5 +1,7 @@
 """
-Wang & Demszky replication API calls.
+From Hardy & Kim 2026, Knowledge without Wisdom
+
+Below is the replication of Wang & Demszky's API calls.
 
 Replicates a study originally done with one LLM across multiple LLMs.
 Supports Together, Google (Gemini), HuggingFace, and Anthropic (Claude) APIs.
